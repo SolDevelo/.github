@@ -10,7 +10,7 @@ Our long-term vision is to be an organization capable of effectively solving rea
 This commitment to excellence is reflected in our status as an Atlassian Marketplace Gold Partner and our ISO 9001 certification for quality management, and our contributions to impactful open-source initiatives like OpenMRS.
 
 ## Community & Open Source
-We believe in using technology to create a positive global impact. We are proud to be recognized as a Proficient Contributor and [official partner in the OpenMRS Community](https://openmrs.org/who-we-are/openmrs-partners/).
+We believe in using technology to create a positive global impact. We are proud to be recognized as a Proficient Contributor and an **official partner in the OpenMRS Community**.
 
 OpenMRS is a collaborative, open-source project that builds and maintains a flexible electronic medical record system to support healthcare in resource-constrained environments. Our involvement reflects our dedication to building a better, healthier digital future.
 
@@ -33,7 +33,7 @@ We have developed several applications for Atlassian Jira that improve the quali
 * **[Worklogs](https://soldevelo.com/products/time-reports-for-jira/) - Time Tracking, Time Reports, Timesheets:** Easy and flexible time tracking and reporting for your team.
 * **[QAlity Plus - Test Management for Jira](https://soldevelo.com/products/test-management-for-jira/):** Plan and execute tests with minimal effort.
 * **[Multiple Checklists for Jira](https://soldevelo.com/products/checklists-for-jira/):** Organize work with checklists to track Definition of Done or Acceptance Criteria.
-* **And more!** Check out all our apps on the [Atlassian Marketplace](https://marketplace.atlassian.com/vendors/1215650/soldevelo).
+* **And more!** Check out our [Atlassian Apps](https://soldevelo.com/our-products/).
 
 ## Our Tech Stack
 
@@ -45,4 +45,4 @@ See our [Tech-Radar](https://soldevelo.atlassian.net/wiki/spaces/STR/pages/58125
 * **Website:** [soldevelo.com](https://soldevelo.com/)
 * **Email:** office@soldevelo.com
 * **Atlassian Marketplace:** [SolDevelo](https://marketplace.atlassian.com/vendors/1215650/soldevelo)
-* **Clutch:** [Read our client reviews](https://clutch.co/profile/soldevelo)
+
