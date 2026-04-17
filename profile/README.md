@@ -35,6 +35,11 @@ We have developed several applications for Atlassian Jira that improve the quali
 * **[Multiple Checklists for Jira](https://soldevelo.com/products/checklists-for-jira/):** Organize work with checklists to track Definition of Done or Acceptance Criteria.
 * **And more!** Check out our [Atlassian Apps](https://soldevelo.com/our-products/).
 
+## Our Tech Stack
+
+Our team is proficient in a wide array of technologies to build robust and scalable solutions.
+See our [Tech-Radar](https://soldevelo.atlassian.net/wiki/spaces/STR/pages/5812518913/Tech+Radar)!
+
 ## Get in Touch
 
 * **Website:** [soldevelo.com](https://soldevelo.com/)
